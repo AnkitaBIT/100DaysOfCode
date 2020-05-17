@@ -15,11 +15,11 @@ Do not worry, answering all the queries here.
 Since I belive in learning bit-by-bit, for me this challenge is more than JUST coding. In my version of #100DaysOfCode I follow my own rule i.e. **Learn**. LEARN any tech stack. Not necessarily be coding everyday but very necessarily be learning some tech stack. It could be learning some language from a book, some development course, maybe making up my own project, contributing to open source projects or simply practicing technical writing.
 
 ## Why is there a need of #100DaysOfCode?
-1. Public commitment always helps you to stay on track. I believe that commiting publicly anchors me to my roots and I perform better. I'm sure it works for 90% out there!
-2. **Connect** with like-minded people. Taking up #100DaysOfCode challenge is the best way you to connect with awesome developer communities out there on Twitter/Slack/etc.
-3. To stay **disciplined**. There is surely no better way to be disciplined than practicing code for at least an hour everyday.
-4. Enhancing your **tech stack**. Being a Computer Science student I very well understand the need of enhancing my tech stacks in every direction I possibly can. 
-5. Building up a good **coding habits**.
+* Public commitment always helps you to stay on track. I believe that commiting publicly anchors me to my roots and I perform better. I'm sure it works for 90% out there!
+* **Connect** with like-minded people. Taking up #100DaysOfCode challenge is the best way you to connect with awesome developer communities out there on Twitter/Slack/etc.
+* To stay **disciplined**. There is surely no better way to be disciplined than practicing code for at least an hour everyday.
+* Enhancing your **tech stack**. Being a Computer Science student I very well understand the need of enhancing my tech stacks in every direction I possibly can. 
+* Building up a good **coding habits**.
 
 ## My version 1.0 
 * Today on 17.05.2020, I am getting started with my first ever #100DaysOfCode. You can check out my progress on my [Twitter](https://twitter.com/AnkitaxPriya) handle for the updates. 
@@ -34,9 +34,9 @@ Since I belive in learning bit-by-bit, for me this challenge is more than JUST c
 - [x] Commit publicly. Check out my [tweet](https://twitter.com/AnkitaxPriya/status/1261716021108305921)
 - [x] Setting up my #100DaysOfCode Github repository.
 - [ ] Complete C++ tutorial. 
-      - Sources:
-        - [Bucky's C++ tutorial](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) on YouTube.
-        - [Fork CPP](https://practice.geeksforgeeks.org/courses/fork-cpp?vC=1) on GeeksForGeeks.
+      * Sources:
+        * [Bucky's C++ tutorial](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) on YouTube.
+        * [Fork CPP](https://practice.geeksforgeeks.org/courses/fork-cpp?vC=1) on GeeksForGeeks.
 - [ ] Solve at least 5 questions of C++ on HackerRank
 
 ## Warning
