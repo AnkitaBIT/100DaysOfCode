@@ -33,10 +33,7 @@ Since I belive in learning bit-by-bit, for me this challenge is more than JUST c
 ### My Goals for Week 1
 - [x] Commit publicly. Check out my [tweet](https://twitter.com/AnkitaxPriya/status/1261716021108305921)
 - [x] Setting up my #100DaysOfCode Github repository.
-- [ ] Complete C++ tutorial. 
-      * Sources:
-        * [Bucky's C++ tutorial](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) on YouTube.
-        * [Fork CPP](https://practice.geeksforgeeks.org/courses/fork-cpp?vC=1) on GeeksForGeeks.
+- [ ] Complete C++ tutorial. (brush up)
 - [ ] Solve at least 5 questions of C++ on HackerRank
 
 ## Warning
