@@ -1,0 +1,6 @@
+Day 1 of 100 
+
+Tasks completed:
+1. Set up my GitHub repository for #100DaysOfCode challenge.
+2. Went through the basics of C++. Source: Bucky's C++ Tutorial
+3. Solved a very basic problem on HackerRank. 
