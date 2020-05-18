@@ -4,9 +4,11 @@ Tasks completed:
 
 1. Went through the topics of class, object and contructors of C++.
 	- Source: Bucky's C++ Tutorial
-
-2. Solved a problem on HackerRank
 	
-3. Brushed up the fundamentals of Algorithms
+2. Learnt the use of header file <iomanip>
 
-4. Updated my GitHub repository for #100DaysOfCode challenge
+3. Solved a problem on HackerRank
+	
+4. Brushed up the fundamentals of Algorithms
+
+5. Updated my GitHub repository for #100DaysOfCode challenge
