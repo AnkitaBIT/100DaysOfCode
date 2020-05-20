@@ -4,8 +4,9 @@ Tasks completed:
 
 1. Solved two problems on HackerRank
 
-2. Fundamentals of Algorithms from GFG
+2. "Check Kth bit is set or not" algorithm from GFG
 	
-3. Learnt few concepts of C++
+3. Learnt about bitwise operators in C++
 
 4. Enrolled in AWS Machine Learning Foundation Course
+
