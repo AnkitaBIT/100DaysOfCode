@@ -1,0 +1,11 @@
+Day 4 of 100 
+
+Tasks completed:
+
+1. Solved two problems on HackerRank
+
+2. Fundamentals of Algorithms from GFG
+	
+3. Learnt few concepts of C++
+
+4. Enrolled in AWS Machine Learning Foundation Course
