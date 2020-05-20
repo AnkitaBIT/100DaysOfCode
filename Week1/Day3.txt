@@ -1,0 +1,9 @@
+Day 3 of 100 
+
+Tasks completed:
+
+1. Solved a problem on HackerRank
+
+2. Fundamentals of Algorithms from GFG
+	
+3. Learnt fundamental concepts of C++
