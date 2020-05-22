@@ -30,11 +30,13 @@ Since I belive in learning bit-by-bit, for me this challenge is more than JUST c
   - Dive into Machine Learning
   - Build up an ML project 
 
-### My Goals for Week 1
+## My Goals for 
+### Week 1 (17th May '20 to 23rd May '20)
 - [x] Commit publicly. Check out my [tweet](https://twitter.com/AnkitaxPriya/status/1261716021108305921)
 - [x] Setting up my #100DaysOfCode Github repository.
-- [ ] Complete C++ tutorial. (brush up)
-- [ ] Solve at least 5 questions of C++ on HackerRank
+- [ ] Complete C++ tutorial. 
+- [x] Solve at least 5 questions of C++ on HackerRank
+- [x] Complete Python Basics
 
 ## Warning
 There are few pointers to keep in mind before getting started with #100DaysOfCode challenge.
