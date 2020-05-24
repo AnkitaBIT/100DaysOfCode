@@ -1,4 +1,3 @@
-  
 Day 4 of 100 
 
 Tasks completed:
@@ -10,3 +9,4 @@ Tasks completed:
 3. Learnt about bitwise operators in C++
 
 4. Enrolled in AWS Machine Learning Foundation Course
+
