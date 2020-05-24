@@ -1,0 +1,11 @@
+Things I did today:
+
+1. Solved one problem on HackerRank
+
+2. Solved two Algorithm questions
+
+3. Started with JavaScript
+
+4. Watched Python tutorials
+
+5. Completed with my setup work of the Machine Learning project I am doing

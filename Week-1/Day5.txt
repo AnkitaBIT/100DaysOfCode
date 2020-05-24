@@ -1,0 +1,14 @@
+  
+Day 5 of 100 
+
+Tasks completed:
+
+1. Brushed up my Python basics.
+
+2. "Tried" solving pointers question on HackerRank
+	
+3. Went through multiple C++ videos for understanding pointers
+
+4. Set up a new GitHub repo for my Python learning
+
+5. Went through an algorithm video on GFG.

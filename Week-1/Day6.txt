@@ -1,0 +1,5 @@
+Things done today :
+
+1. Understood pointers in C++ from mycodeschool 
+
+2. Watched a video of DSA on GFG
