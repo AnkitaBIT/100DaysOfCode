@@ -38,6 +38,15 @@ Since I belive in learning bit-by-bit, for me this challenge is more than JUST c
 - [x] Solve at least 5 questions of C++ on HackerRank
 - [x] Complete Python Basics
 
+### Week 2 (24th May '20 to 30th May '20)
+- [ ] Continue with 10 Days of JS on HackerRank
+- [ ] Solve at least 5 Python problems on HackerRank
+- [ ] Complete Recursion from GFG
+- [ ] Solve at least 5 C++ problems on HackerRank
+- [ ] Continue with Python tutorials
+- [ ] Complete CSS tutorial
+- [ ] Work on my ML project
+
 ## Warning
 There are few pointers to keep in mind before getting started with #100DaysOfCode challenge.
 - Do not be overambitious. Miracles do NOT happen overnight.
